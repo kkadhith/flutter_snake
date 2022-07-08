@@ -1,4 +1,4 @@
-# snake
+# Snake Game in Flutter (connected to Firebase)
 
 A new Flutter project.
 
