@@ -1,0 +1,4 @@
+#Fri Jul 08 12:12:36 PDT 2022
+base.0=/Users/adhith/StudioProjects/snake/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
